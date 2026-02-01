@@ -1,0 +1,3 @@
+[submodule "3rdparty/mmdeploy"]
+	path = 3rdparty/mmdeploy
+	url = git@github.com:RunqiuBao/mmdeploy.git
